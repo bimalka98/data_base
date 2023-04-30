@@ -1,0 +1,5 @@
+# ignore whatever the inside "map3d" directory is
+map3d/
+
+# igonore prmgraph directory
+prmgraph/
